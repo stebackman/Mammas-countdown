@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mammas-countdown/static/css/main.ce7f4f26.css",
+    "main.js": "/Mammas-countdown/static/js/main.6e7a075b.js",
+    "static/js/453.cc2b24f2.chunk.js": "/Mammas-countdown/static/js/453.cc2b24f2.chunk.js",
+    "index.html": "/Mammas-countdown/index.html",
+    "main.ce7f4f26.css.map": "/Mammas-countdown/static/css/main.ce7f4f26.css.map",
+    "main.6e7a075b.js.map": "/Mammas-countdown/static/js/main.6e7a075b.js.map",
+    "453.cc2b24f2.chunk.js.map": "/Mammas-countdown/static/js/453.cc2b24f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7f4f26.css",
+    "static/js/main.6e7a075b.js"
+  ]
+}
